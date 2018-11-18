@@ -1,0 +1,22 @@
+{
+  "name": "fcc-challenges",
+  "version": "1.0.0",
+  "description": "FCC coding challeges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graf-zer0/FreeCodeCamp-challeges.git"
+  },
+  "keywords": [
+    "FreeCodeCamp"
+  ],
+  "author": "graf-zer0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/graf-zer0/FreeCodeCamp-challeges/issues"
+  },
+  "homepage": "https://github.com/graf-zer0/FreeCodeCamp-challeges#readme"
+}
